@@ -1,8 +1,8 @@
-# AS-ES-2021-1-CovidShot
+# CovidShot
 
 ## Tema
 
-O tema escolhido foi o agendamento e informações sobre vacinas para Covid-19.
+Este repositório contém a documentação para o software CovidShot, criado pelos alunos citados na próxima seção, com o objetivo de demonstrar seu projeto para a disciplina Arquitetura de Software no curso de Engenharia de Software na Universidade Federal de Goiás. O tema escolhido foi o agendamento e informações sobre vacinas para Covid-19.
 
 ## Grupo
 
